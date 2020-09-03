@@ -1,5 +1,0 @@
-xx
-ct
-zz
-master
-dev
