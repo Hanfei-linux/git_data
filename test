@@ -1,0 +1,8 @@
+git config --global user.name "hanfei"
+git config --global user.email "hanfei@mail.com"
+git config --global color.ui true
+git config --list
+
+git config --global user.name "hanfei"
+git config --global user.email "hanfei@mail.com"
+git config --global color.ui true
